@@ -30,7 +30,7 @@
 </div>
 
 <p align="center">
-  <strong>Técnico em Desenvolvimento de Sistemas</strong> - ETEC Monte Mor (2024 - Atualmente)
+  <strong>Técnico em informática para internet</strong> - ETEC MCM (2025 - Atualmente)
 </p>
 
 ---
