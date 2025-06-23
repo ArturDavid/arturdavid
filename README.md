@@ -30,14 +30,12 @@
 </div>
 
 <p align="center">
-  <strong>Técnico em Desenvolvimento de Sistemas</strong> - ETEC Monte Mor (2024 - Atualmente)
+  <strong>Técnico em infromática para internet</strong> - ETEC MCM (2025 - Atualmente)
 </p>
 
 ---
 
-<div align="center">
-  <h3>Conecte-se Comigo!</h3>
-</div>
+
 
 <p align="center">
   <a href="https://www.instagram.com/emillybudri/" target="_blank">
