@@ -11,10 +11,7 @@
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=header&animation=blinking&fontSize=50&fontColor=000000&fontAlignY=40&stroke=008000&strokeWidth=5"/>
 
  
- <p align="center">
-   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&animate=glow" alt="Instagram"/>
-  </a>
- </p>
+
 
 
 ---
