@@ -10,19 +10,8 @@
 
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=header&animation=blinking&fontSize=50&fontColor=000000&fontAlignY=40&stroke=008000&strokeWidth=5"/>
 
-
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost+Black&size=32&duration=2500&pause=500&color=00ff00&center=true&vCenter=true&width=800&lines=💻+Desenvolvedora+Front-end+e+Mobile;+UX+Designer+Apaixonada;🚀+Competidora+InterFatecs;+Criadora+de+Experiências+Digitais+Mágicas)](https://git.io/typing-svg)
-
-
  
  <p align="center">
-  <a href="https://budri.com.br" target="_blank">
-   <img src="https://img.shields.io/badge/ _Portfolio-00ff00?style=for-the-badge&logo=vercel&logoColor=black&animate=pulse" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/emilly-budri-bognar/" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&animate=glow" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/emillybudri/" target="_blank">
    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&animate=glow" alt="Instagram"/>
   </a>
  </p>
@@ -63,18 +52,9 @@
 ---
 
 
-<div align="center">
- <h3>🔗 Conecte-se comigo!</h3>
-</div>
 
 
-<p align="center">
- <a href="https://budri.com.br" target="_blank">
-  <img src="https://img.shields.io/badge/✨_Portfolio-00ff00?style=for-the-badge&logo=vercel&logoColor=black&animate=pulse" alt="Portfolio"/>
- </a>
- <a href="https://www.linkedin.com/in/emilly-budri-bognar/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
- </a>
+
  <a href="https://www.instagram.com/emillybudri/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
  </a>
