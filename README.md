@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=150&section=header&animation=blinking&fontSize=80&fontColor=000000&stroke=808080&strokeWidth=12&fontAlignY=80"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=150&section=header&animation=blinking&fontSize=80&fontColor=000000&stroke=DAA520&strokeWidth=12&fontAlignY=80"/>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Estudante+de+Programação+;Estudante+da+ETEC+MCM)](https://git.io/typing-svg)
 
@@ -30,20 +30,23 @@
 </div>
 
 <p align="center">
-  <strong>Técnico em infromática para internet</strong> - ETEC MCM (2025 - Atualmente)
+  <strong>Técnico em Desenvolvimento de Sistemas</strong> - ETEC Monte Mor (2024 - Atualmente)
 </p>
 
 ---
 
-
+<div align="center">
+  <h3>Conecte-se Comigo!</h3>
+</div>
 
 <p align="center">
+  <a href="https://www.instagram.com/emillybudri/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   </p>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=100&section=footer&animation=blinking&fontSize=50&fontColor=000000&stroke=808080&strokeWidth=5&fontAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=100&section=footer&animation=blinking&fontSize=50&fontColor=000000&stroke=DAA520&strokeWidth=5&fontAlignY=65"/>
 
 </div>
