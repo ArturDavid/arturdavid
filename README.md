@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=150&section=header&animation=blinking&fontSize=80&fontColor=000000&stroke=DAA520&strokeWidth=25&fontAlignY=80"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=150&section=header&animation=blinking&fontSize=80&fontColor=000000&stroke=DAA520&strokeWidth=25&fontAlignY=80"/>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Estudante+de+Programação+;Estudante+da+ETEC+MCM)](https://git.io/typing-svg)
 
@@ -44,6 +44,6 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=150&section=footer&animation=blinking&fontSize=80&fontColor=000000&stroke=DAA520&strokeWidth=25&fontAlignY=80"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=150&section=footer&animation=blinking&fontSize=80&fontColor=000000&stroke=DAA520&strokeWidth=25&fontAlignY=80"/>
 
 </div>
