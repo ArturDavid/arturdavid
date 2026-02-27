@@ -33,16 +33,6 @@
   <strong>Técnico em informática para internet</strong> - ETEC MCM (2025 - Atualmente)
 </p>
 
----
-
-
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  </p>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=150&section=footer&animation=blinking&fontSize=80&fontColor=000000&stroke=DAA520&strokeWidth=25&fontAlignY=80"/>
 
