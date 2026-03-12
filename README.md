@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <strong>Técnico em informática para internet</strong> - ETEC MCM (2025 - Atualmente)
+  <strong>Técnico em informática para internet</strong> - ETEC MCM (2026 - Atualmente)
 </p>
 
 
