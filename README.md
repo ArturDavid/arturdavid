@@ -11,7 +11,7 @@
 
 <p align="justify">👋 Olá! Eu sou o Artur, estudo na ETEC MCM aqui em Ribeirão Pires e tenho este GitHub dedicado às minhas aulas e projetos da escola.</p>
 
----
+
 
 
 
