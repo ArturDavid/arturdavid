@@ -7,7 +7,7 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Estudante+de+Programação+;Estudante+da+ETEC+MCM)](https://git.io/typing-svg)
 
----
+
 
 <p align="justify">👋 Olá! Eu sou o Artur, estudo na ETEC MCM aqui em Ribeirão Pires e tenho este GitHub dedicado às minhas aulas e projetos da escola.</p>
 
